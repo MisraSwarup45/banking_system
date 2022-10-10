@@ -1,2 +1,3 @@
-# banking_system
-<h1>Bank Management System</h1>
+<h3>Bank Management System</h2>
+<h4>All features are available like opening & closing account, cash withdrawal, deposit, balance inquiry.</h4>
+<h4>The data will be store in local file using C++ File Handling Concepts and Object Oriented Programming Concepts</h4>
